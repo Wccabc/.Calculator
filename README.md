@@ -1,3 +1,3 @@
 # .Calculator
 
-this is a simple caklculator using js
+this is a simple calculator using js
